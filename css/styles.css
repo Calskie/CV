@@ -1,0 +1,18 @@
+/**********************TAG SELECTORS**********************/
+
+body {background-color: #ffb400;
+}
+hr {border-color: #2d4059;
+  border-width: 4px;
+border-style: dotted none  none none;
+width: 98%;
+}
+h1 {color: #2d4059;
+  font-family: sans-serif;
+}
+h3 {color: #2d4059;
+  font-family: sans-serif;
+}
+
+/**********************CLASS SELECTORS**********************/
+.imgborder {border-radius: 20px;}
